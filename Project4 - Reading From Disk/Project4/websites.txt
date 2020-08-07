@@ -1,0 +1,12 @@
+apple.com
+hackingwithswift.com
+google.com
+twitter.com
+instagram.com
+udemy.com
+stackoverflow.com
+store.playstation.com
+store.steampowered.com
+onedio.com
+webtekno.com
+
