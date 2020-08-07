@@ -50,3 +50,10 @@
   <img src="https://user-images.githubusercontent.com/43148881/89634667-6c3bf800-d8ae-11ea-9eaf-fcf8b6b379dc.png" alt = "2" width=250>
 </p>
 
+## Project 7: Whitehouse Petitions
+
+<p float="middle"> 
+  <img src="https://user-images.githubusercontent.com/43148881/89691858-bb1b7900-d912-11ea-80c1-c0b11c9a8997.png" alt = "1" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/89691882-cc648580-d912-11ea-9010-ba2fda391ee4.png" alt = "1" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/89691892-d4242a00-d912-11ea-93bf-061cb44ff1b3.png" alt = "2" width=250>
+</p>
