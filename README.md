@@ -19,16 +19,16 @@
 
 ## Project 3 - Social Media (Milestone Project 1-3)
 <p float="middle">
-  <img src="https://user-images.githubusercontent.com/43148881/89199208-e7ec2b00-d5b6-11ea-97d1-52b2a9f86207.png" alt = "1" width=150>
-  <img src="https://user-images.githubusercontent.com/43148881/89199250-f6d2dd80-d5b6-11ea-803e-4095bfaed5ee.png" alt = "2" width=150>
-  <img src="https://user-images.githubusercontent.com/43148881/89199281-018d7280-d5b7-11ea-907c-3bcf3ea7b98b.png" alt = "3" width=150>
+  <img src="https://user-images.githubusercontent.com/43148881/89199208-e7ec2b00-d5b6-11ea-97d1-52b2a9f86207.png" alt = "1" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/89199250-f6d2dd80-d5b6-11ea-803e-4095bfaed5ee.png" alt = "2" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/89199281-018d7280-d5b7-11ea-907c-3bcf3ea7b98b.png" alt = "3" width=250>
 </p>
 
 ## Project 4 - Easy Browser
 <p float="middle">  
- <img src="https://user-images.githubusercontent.com/43148881/89199336-123de880-d5b7-11ea-8eb1-243b192c2b33.png" alt = "1" width=200>
- <img src="https://user-images.githubusercontent.com/43148881/89199389-25e94f00-d5b7-11ea-9a35-03b07b36bfaf.png" alt = "2" width=200>
- <img src="https://user-images.githubusercontent.com/43148881/89200333-87f68400-d5b8-11ea-8580-e13d2b56d376.png" alt = "2" width=200> 
+ <img src="https://user-images.githubusercontent.com/43148881/89199336-123de880-d5b7-11ea-8eb1-243b192c2b33.png" alt = "1" width=250>
+ <img src="https://user-images.githubusercontent.com/43148881/89199389-25e94f00-d5b7-11ea-9a35-03b07b36bfaf.png" alt = "2" width=250>
+ <img src="https://user-images.githubusercontent.com/43148881/89200333-87f68400-d5b8-11ea-8580-e13d2b56d376.png" alt = "2" width=250> 
 </p>
 
 ## Project 5 - Word Scramble
@@ -45,8 +45,8 @@
 
 ## Shopping List - Milestone: Projects 4-6
 <p float="middle"> 
-  <img src="https://user-images.githubusercontent.com/43148881/89634564-47e01b80-d8ae-11ea-9ca1-d29643c2dbb3.png" alt = "1" width=300>
-  <img src="https://user-images.githubusercontent.com/43148881/89634661-6a723480-d8ae-11ea-8649-e65efac79da9.png" alt = "1" width=300>
-  <img src="https://user-images.githubusercontent.com/43148881/89634667-6c3bf800-d8ae-11ea-9eaf-fcf8b6b379dc.png" alt = "2" width=300>
+  <img src="https://user-images.githubusercontent.com/43148881/89634564-47e01b80-d8ae-11ea-9ca1-d29643c2dbb3.png" alt = "1" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/89634661-6a723480-d8ae-11ea-8649-e65efac79da9.png" alt = "1" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/89634667-6c3bf800-d8ae-11ea-9eaf-fcf8b6b379dc.png" alt = "2" width=250>
 </p>
 
