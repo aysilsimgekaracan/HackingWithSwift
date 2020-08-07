@@ -19,9 +19,9 @@
 
 ## Project 3 - Social Media (Milestone Project 1-3)
 <p float="middle">
-  <img src="https://user-images.githubusercontent.com/43148881/89199208-e7ec2b00-d5b6-11ea-97d1-52b2a9f86207.png" alt = "1" width=300>
-  <img src="https://user-images.githubusercontent.com/43148881/89199250-f6d2dd80-d5b6-11ea-803e-4095bfaed5ee.png" alt = "2" width=300>
-  <img src="https://user-images.githubusercontent.com/43148881/89199281-018d7280-d5b7-11ea-907c-3bcf3ea7b98b.png" alt = "2" width=300>
+  <img src="https://user-images.githubusercontent.com/43148881/89199208-e7ec2b00-d5b6-11ea-97d1-52b2a9f86207.png" alt = "1" width=200>
+  <img src="https://user-images.githubusercontent.com/43148881/89199250-f6d2dd80-d5b6-11ea-803e-4095bfaed5ee.png" alt = "2" width=200>
+  <img src="https://user-images.githubusercontent.com/43148881/89199281-018d7280-d5b7-11ea-907c-3bcf3ea7b98b.png" alt = "2" width=200>
 </p>
 
 ## Project 4 - Easy Browser
