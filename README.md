@@ -61,10 +61,11 @@
 ## Project 8: 7 Swifty Words
 
 <p float="middle"> 
-  <img src="https://user-images.githubusercontent.com/43148881/89734683-45c0bd00-da66-11ea-8da2-004187e040aa.png" alt = "1" width=250>
-  <img src="https://user-images.githubusercontent.com/43148881/89734733-8f110c80-da66-11ea-8c0c-56eeca48dac7.png" alt = "1" width=250>
-  <img src="https://user-images.githubusercontent.com/43148881/89734744-a7812700-da66-11ea-8631-3fd89a82c897.png" alt = "2" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/89734683-45c0bd00-da66-11ea-8da2-004187e040aa.png" alt = "1" width=400>
+  <img src="https://user-images.githubusercontent.com/43148881/89734733-8f110c80-da66-11ea-8c0c-56eeca48dac7.png" alt = "1" width=400>
 </p>
+
+<img src="https://user-images.githubusercontent.com/43148881/89734744-a7812700-da66-11ea-8631-3fd89a82c897.png" alt = "2" width=400>
 
 
 
