@@ -68,3 +68,9 @@
   <img src="https://user-images.githubusercontent.com/43148881/89734744-a7812700-da66-11ea-8631-3fd89a82c897.png"  alt = "2" width=400>
 </p>
 
+## Project 9: Grand Central Dispatch
+
+In this project, project 7 is modified to solve a critical problem using one of the most important Apple frameworks available: Grand Central Dispatch (GCD).
+Learned Grand Central Dispatch, async() and its parameters, performSelector(inBackground:) and its parameters, performSelector(onMainThread:).
+Then for the challanges I modifed project 1, project 7 and project 8 which you can find in the project 9 folder.
+
