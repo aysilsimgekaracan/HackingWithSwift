@@ -83,4 +83,14 @@ Then for the challanges I modifed project 1, project 7 and project 8 which you c
   <img src="https://user-images.githubusercontent.com/43148881/89897860-60bb3a80-dbe8-11ea-9e40-4bd0ada7e60a.png" alt = "2" width=250>
 </p>
 
+## Project 10: Names to Faces
+Learned UICollectionView, UIImagePickerController, UUID and modified Project 1
+
+<p float="middle"> 
+  <img src="https://user-images.githubusercontent.com/43148881/90483461-67dcce00-e13d-11ea-8c12-ad69d19f61bd.png" alt = "1" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/90483501-762aea00-e13d-11ea-9e46-57f0558bcd70.png" alt = "1" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/90483628-aa9ea600-e13d-11ea-8169-5c5030332a50.png" alt = "2" width=250>
+</p>
+
+
 
