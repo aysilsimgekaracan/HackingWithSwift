@@ -92,5 +92,12 @@ Learned UICollectionView, UIImagePickerController, UUID and modified Project 1
   <img src="https://user-images.githubusercontent.com/43148881/90483628-aa9ea600-e13d-11ea-8169-5c5030332a50.png" alt = "2" width=250>
 </p>
 
-
+## Project 11: Project 11: Pachinko
+<p float="middle"> 
+  <img src="https://user-images.githubusercontent.com/43148881/90628676-ba45e980-e226-11ea-944e-1cbe152990fc.png" alt = "1" width=400>
+  <img src="https://user-images.githubusercontent.com/43148881/90629083-65ef3980-e227-11ea-86b0-937d81ee2b3d.png" alt = "1" width=400>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/43148881/90629258-bbc3e180-e227-11ea-8f55-764b6ec31025.png"  alt = "2" width=400>
+</p>
 
