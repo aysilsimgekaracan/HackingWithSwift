@@ -118,17 +118,17 @@ Modified project 10, 1, 2, 5 which you can find on folder called "Project 12"
 ## Milestone: Projects 10-12
 
 <p float="middle"> 
-  <img src="https://user-images.githubusercontent.com/43148881/91702645-b0ef4200-eb81-11ea-9d08-1348484c848c.PNG" alt = "1" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/91702654-b3519c00-eb81-11ea-9622-106fafba3336.PNG" alt = "1" width=250>
   <img src="https://user-images.githubusercontent.com/43148881/91702649-b2206f00-eb81-11ea-9661-7409f4401ba3.PNG" alt = "1" width=250>
-  <img src="https://user-images.githubusercontent.com/43148881/91702654-b3519c00-eb81-11ea-9622-106fafba3336.PNG" alt = "2" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/91702645-b0ef4200-eb81-11ea-9d08-1348484c848c.PNG" alt = "2" width=250>
 </p>
+
 
 ## Project 13: Instafilter
 
 <p float="middle"> 
-  <img src="https://user-images.githubusercontent.com/43148881/91703213-82be3200-eb82-11ea-98ae-c327efa3a412.PNG" alt = "1" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/91703681-3de6cb00-eb83-11ea-9f0c-feac2b10fa5b.PNG" alt = "1" width=250>
   <img src="https://user-images.githubusercontent.com/43148881/91703551-0a0ba580-eb83-11ea-92a8-671f5b240ec3.PNG" alt = "1" width=250>
-  <img src="https://user-images.githubusercontent.com/43148881/91703681-3de6cb00-eb83-11ea-9f0c-feac2b10fa5b.PNG" alt = "2" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/91703213-82be3200-eb82-11ea-98ae-c327efa3a412.PNG" alt = "2" width=250>
 </p>
-
 ## Project 14: Whack-a-Penguin
