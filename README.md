@@ -131,4 +131,10 @@ Modified project 10, 1, 2, 5 which you can find on folder called "Project 12"
   <img src="https://user-images.githubusercontent.com/43148881/91703551-0a0ba580-eb83-11ea-92a8-671f5b240ec3.PNG" alt = "1" width=250>
   <img src="https://user-images.githubusercontent.com/43148881/91703213-82be3200-eb82-11ea-98ae-c327efa3a412.PNG" alt = "2" width=250>
 </p>
+
 ## Project 14: Whack-a-Penguin
+
+<p float="middle"> 
+  <img src="https://user-images.githubusercontent.com/43148881/91703756-5e168a00-eb83-11ea-8bc5-8289df8a91a9.PNG" alt = "1" width=400>
+  <img src="https://user-images.githubusercontent.com/43148881/91704063-c36a7b00-eb83-11ea-8404-e1ccbe5f7d32.PNG" alt = "1" width=400>
+</p>
