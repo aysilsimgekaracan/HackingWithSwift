@@ -146,5 +146,4 @@ Also modified Project 2, Project 8 and Project 13
 </p>
 <p float="middle"> 
   <img src="https://user-images.githubusercontent.com/43148881/91832017-7fdc4380-ec4d-11ea-8e90-34848b1eedd8.gif" alt = "1" width=400>
-  <img src="https://user-images.githubusercontent.com/43148881/91831461-c54c4100-ec4c-11ea-9bec-1ca27a2029f5.gif" alt = "1" width=300>
 </p>
