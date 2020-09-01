@@ -138,3 +138,13 @@ Modified project 10, 1, 2, 5 which you can find on folder called "Project 12"
   <img src="https://user-images.githubusercontent.com/43148881/91703756-5e168a00-eb83-11ea-8bc5-8289df8a91a9.PNG" alt = "1" width=400>
   <img src="https://user-images.githubusercontent.com/43148881/91704063-c36a7b00-eb83-11ea-8404-e1ccbe5f7d32.PNG" alt = "1" width=400>
 </p>
+
+## Project 15: Animation
+Learned animate(withDuration:) method of UIView, spring animations and alpha values and CGAffineTransform.
+</p>
+Also modified Project 2, Project 8 and Project 13
+</p>
+<p float="middle"> 
+  <img src="https://user-images.githubusercontent.com/43148881/91831214-756d7a00-ec4c-11ea-86ba-d08431e8db60.gif" alt = "1" width=400>
+  <img src="https://user-images.githubusercontent.com/43148881/91831461-c54c4100-ec4c-11ea-9bec-1ca27a2029f5.gif" alt = "1" width=400>
+</p>
