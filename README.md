@@ -147,3 +147,11 @@ Also modified Project 2, Project 8 and Project 13
 <p float="center"> 
   <img src="https://user-images.githubusercontent.com/43148881/91832017-7fdc4380-ec4d-11ea-8e90-34848b1eedd8.gif" alt = "1" width=400>
 </p>
+
+## Milestone: Projects 13-15
+
+<p float="middle"> 
+  <img src="https://user-images.githubusercontent.com/43148881/91971070-47a63500-ed21-11ea-8fb4-798c57fd338e.PNG" alt = "1" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/91971194-79b79700-ed21-11ea-9672-216cbe7e4b1d.PNG" alt = "1" width=250>
+  <img src="https://user-images.githubusercontent.com/43148881/91971220-85a35900-ed21-11ea-8466-f89b1678db85.PNG" alt = "2" width=250>
+</p>
