@@ -163,3 +163,10 @@ Also modified Project 2, Project 8 and Project 13
   <img src="https://user-images.githubusercontent.com/43148881/92094549-41758e80-eddd-11ea-9727-05c96520b2a2.PNG" alt = "1" width=250>
   <img src="https://user-images.githubusercontent.com/43148881/92094601-4fc3aa80-eddd-11ea-82f9-e343cb87a0ac.PNG" alt = "2" width=250>
 </p>
+
+## Project 17: Space Race
+
+<p float="middle"> 
+  <img src="https://user-images.githubusercontent.com/43148881/92385487-a5b88b00-f11a-11ea-9d40-4d5784f3d146.PNG" alt = "1" width=400>
+  <img src="https://user-images.githubusercontent.com/43148881/92385490-a6e9b800-f11a-11ea-91cd-a92b06f50e14.PNG" alt = "1" width=400>
+</p>
