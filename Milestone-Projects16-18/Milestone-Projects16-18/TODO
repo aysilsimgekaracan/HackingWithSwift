@@ -1,0 +1,23 @@
+
+TODO LIST:
+
+[X] Background image
+[X] Delete the nodes outside of the screen
+[X] Arrange Curtains
+[X] Create All Rows
+[X] Make the top and bottom rows move left to right, but the middle row move right to left.
+[X] Show ducks randomly
+[X] Move Ducks
+[X] Add “bad” targets – things that cost the user points if they get shot accidentally.
+[X] Score Label
+[X] Remove the hitted ducks
+[X] Show target image when user hit the friendly duck
+[X] Show sks particle effect when user hit on a bad duck
+[X] Give the user six bullets per clip. Make them tap a different part of the screen to reload.
+[X] Add a timer that ticks down from 60 seconds. When it hits zero, show a Game Over message.
+[X] Game Over Screen -> Score Label and Reset Button
+[] Info Button on Top Right
+
+
+
+
