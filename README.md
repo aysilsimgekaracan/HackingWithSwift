@@ -177,3 +177,13 @@ Also modified Project 2, Project 8 and Project 13
 Learned debugging with assert() method, breakpoints and Capture View Hierarchy.
 </p>
 Modified Project 1 and 5.
+
+## Milestone: Projects 16-18
+<p float="middle"> 
+  <img src="https://user-images.githubusercontent.com/43148881/93526988-e85f3c00-f940-11ea-9a38-ea1a28265f86.PNG" alt = "1" width=400>
+  <img src="https://user-images.githubusercontent.com/43148881/93527041-fc0aa280-f940-11ea-83e0-a07d6aebc405.PNG" alt = "1" width=400>
+</p>
+<p float="middle"> 
+  <img src="https://user-images.githubusercontent.com/43148881/93526605-5bb47e00-f940-11ea-867b-27a561629d68.gif" alt = "1" width=400>
+  <img src="https://user-images.githubusercontent.com/43148881/93527114-104e9f80-f941-11ea-85c9-4fb618e83401.PNG" alt = "1" width=400>
+</p>
