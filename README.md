@@ -92,7 +92,7 @@ Learned UICollectionView, UIImagePickerController, UUID and modified Project 1
   <img src="https://user-images.githubusercontent.com/43148881/90483628-aa9ea600-e13d-11ea-8169-5c5030332a50.png" alt = "2" width=250>
 </p>
 
-## Project 11: Project 11: Pachinko
+## Project 11: Pachinko
 <p float="middle"> 
   <img src="https://user-images.githubusercontent.com/43148881/90629452-14937a00-e228-11ea-94df-44b8b8c4796f.png" alt = "1" width=400>
   <img src="https://user-images.githubusercontent.com/43148881/90629258-bbc3e180-e227-11ea-8f55-764b6ec31025.png" alt = "1" width=400>
@@ -194,4 +194,9 @@ Modified Project 1 and 5.
   <img src="https://user-images.githubusercontent.com/43148881/94806963-8f3ee000-03f7-11eb-8ccd-dcd16ec4d476.png" alt = "1" width=250>
   <img src="https://user-images.githubusercontent.com/43148881/94807021-a382dd00-03f7-11eb-8115-22c8d3fd0c9e.png" alt = "1" width=250>
   <img src="https://user-images.githubusercontent.com/43148881/94807037-ae3d7200-03f7-11eb-93dd-2886c745426e.png" alt = "2" width=250>
+</p>
+
+## Project 20: Fireworks Night
+<p float="center"> 
+  <img src="https://user-images.githubusercontent.com/43148881/94917499-50715e80-04b9-11eb-99ad-5014fc747c9d.PNG" alt = "1" width=400>
 </p>
