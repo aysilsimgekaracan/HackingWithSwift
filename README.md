@@ -200,3 +200,13 @@ Modified Project 1 and 5.
 <p float="center"> 
   <img src="https://user-images.githubusercontent.com/43148881/94917499-50715e80-04b9-11eb-99ad-5014fc747c9d.PNG" alt = "1" width=400>
 </p>
+
+## Project 21: Local Notifications
+<p float="center">
+  <img src="https://user-images.githubusercontent.com/43148881/94990303-bb876780-0583-11eb-8b6f-1316b902fc73.png" alt = "1" width=300>
+  <img src="https://user-images.githubusercontent.com/43148881/94990313-ccd07400-0583-11eb-933c-d491f8863ad4.png" alt = "2" width=300>
+</p>
+<p float="center">
+  <img src="https://user-images.githubusercontent.com/43148881/94990321-d6f27280-0583-11eb-9f9f-531e9deffba0.png" alt = "1" width=300>
+  <img src="https://user-images.githubusercontent.com/43148881/94990329-e4a7f800-0583-11eb-9ef3-08b7d0de67f7.png" alt = "2" width=300>
+</p>
