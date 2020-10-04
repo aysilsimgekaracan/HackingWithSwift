@@ -216,3 +216,8 @@ Modified Project 1 and 5.
   <img src="https://user-images.githubusercontent.com/43148881/95014282-84ca5380-064e-11eb-953b-dd7a7e233d06.gif" alt = "1" width=300>
   <img src="https://user-images.githubusercontent.com/43148881/95014291-91e74280-064e-11eb-9cf9-4170ae3a4158.PNG" alt = "2" width=300>
 </p>
+
+## Project 22: Detect-a-Beacon
+<p float="center"> 
+  <img src="https://user-images.githubusercontent.com/43148881/95023858-068aa300-0688-11eb-8976-b37fd41b2596.PNG" alt = "1" width=400>
+</p>
