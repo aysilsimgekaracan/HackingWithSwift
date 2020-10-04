@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Project22" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="UNKNOWN" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aP0-nA-7Qq">
+                                <rect key="frame" x="111" y="429" width="192" height="48"/>
+                                <fontDescription key="fontDescription" type="system" weight="thin" pointSize="40"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label autoresizesSubviews="NO" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="There is No Beacon Located" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pf3-OT-fmZ">
+                                <rect key="frame" x="66" y="485" width="283" height="21"/>
+                                <fontDescription key="fontDescription" type="system" weight="thin" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Er8-0A-ZwG">
+                                <rect key="frame" x="79" y="129" width="256" height="256"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" relation="lessThanOrEqual" secondItem="pf3-OT-fmZ" secondAttribute="trailing" constant="102" id="FwE-Pa-EAQ"/>
+                            <constraint firstItem="aP0-nA-7Qq" firstAttribute="top" secondItem="Er8-0A-ZwG" secondAttribute="bottom" constant="44" id="Lxc-8u-0n8"/>
+                            <constraint firstItem="pf3-OT-fmZ" firstAttribute="top" secondItem="aP0-nA-7Qq" secondAttribute="bottom" constant="8" id="MQJ-ry-UdG"/>
+                            <constraint firstItem="aP0-nA-7Qq" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="S0F-AP-zUb"/>
+                            <constraint firstItem="aP0-nA-7Qq" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="385" id="SN7-E5-mCw"/>
+                            <constraint firstItem="Er8-0A-ZwG" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="85" id="T92-MP-dZL"/>
+                            <constraint firstItem="Er8-0A-ZwG" firstAttribute="centerX" secondItem="aP0-nA-7Qq" secondAttribute="centerX" id="fzg-Km-1gm"/>
+                            <constraint firstItem="Er8-0A-ZwG" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="79" id="kK9-5W-jvi"/>
+                            <constraint firstItem="pf3-OT-fmZ" firstAttribute="leading" relation="lessThanOrEqual" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="102" id="mho-qc-iPx"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="beaconTypeLabel" destination="pf3-OT-fmZ" id="1Cg-6O-vfv"/>
+                        <outlet property="circleView" destination="Er8-0A-ZwG" id="2R3-SI-Bgb"/>
+                        <outlet property="distanceReading" destination="aP0-nA-7Qq" id="LOn-x5-RJa"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="140.57971014492756" y="128.57142857142856"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
