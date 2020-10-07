@@ -221,3 +221,9 @@ Modified Project 1 and 5.
 <p float="center"> 
   <img src="https://user-images.githubusercontent.com/43148881/95023858-068aa300-0688-11eb-8976-b37fd41b2596.PNG" alt = "1" width=400>
 </p>
+
+## Project 23: Swifty Ninja
+<p float="middle"> 
+  <img src="https://user-images.githubusercontent.com/43148881/95321110-3eb9fd80-08a3-11eb-83f3-0084a033c9a9.PNG" alt = "1" width=400>
+  <img src="https://user-images.githubusercontent.com/43148881/95321128-44174800-08a3-11eb-859e-9ea7bc9feec0.PNG" alt = "1" width=400>
+</p>
