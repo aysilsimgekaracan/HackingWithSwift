@@ -231,3 +231,7 @@ Modified Project 1 and 5.
 ## Project 24: Swift Strings
 
 Looked at how strings are different from arrays, how we can write useful extensions for strings, how Swift lets us combine functions together beautifully, and how NSAttributedString lets us add formatting to strings
+
+## Milestone: Projects 22-24
+
+Implemented three Swift language extensions using what you learned in project 24.
