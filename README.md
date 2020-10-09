@@ -227,3 +227,7 @@ Modified Project 1 and 5.
   <img src="https://user-images.githubusercontent.com/43148881/95321110-3eb9fd80-08a3-11eb-83f3-0084a033c9a9.PNG" alt = "1" width=400>
   <img src="https://user-images.githubusercontent.com/43148881/95321128-44174800-08a3-11eb-859e-9ea7bc9feec0.PNG" alt = "1" width=400>
 </p>
+
+## Project 24: Swift Strings
+
+Looked at how strings are different from arrays, how we can write useful extensions for strings, how Swift lets us combine functions together beautifully, and how NSAttributedString lets us add formatting to strings
