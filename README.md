@@ -235,3 +235,10 @@ Looked at how strings are different from arrays, how we can write useful extensi
 ## Milestone: Projects 22-24
 
 Implemented three Swift language extensions using what you learned in project 24.
+
+## Project 25: Selfie Share
+<p float="middle"> 
+  <img src="https://user-images.githubusercontent.com/43148881/96377019-1bd4f680-118b-11eb-942e-a5c9dddd8ebb.png" alt = "1" width=400>
+  <img src="https://user-images.githubusercontent.com/43148881/96377021-1e375080-118b-11eb-9b9c-bfd185a531dd.png" alt = "1" width=400>
+</p>
+
